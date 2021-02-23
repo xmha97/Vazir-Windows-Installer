@@ -1,8 +1,8 @@
 # Vazir Windows Installer
 
-A Windows installer for the [Vazir](https://github.com/xmha97/Vazir) typeface.
+A Windows installer for the [Vazir](https://github.com/rastikerdar/vazir-font) typeface.
 
-While it might seem like overkill to use a Windows installer for fonts, there is good reason for this on the Windows platform. A number of things can go wrong when one tries to install or update frequently updated fonts manually (see [issue #152](https://github.com/xmha97/Vazir/issues/152), [issue #129](https://github.com/xmha97/Vazir/issues/129) and [issue #362](https://github.com/xmha97/Vazir/issues/362) in the [Vazir repository](https://github.com/xmha97/Vazir/)). 
+While it might seem like overkill to use a Windows installer for fonts, there is good reason for this on the Windows platform. A number of things can go wrong when one tries to install or update frequently updated fonts manually (see [issue #152](https://github.com/rastikerdar/vazir-font/issues/152), [issue #129](https://github.com/rastikerdar/vazir-font/issues/129) and [issue #362](https://github.com/rastikerdar/vazir-font/issues/362) in the [Vazir repository](https://github.com/rastikerdar/vazir-font/)). 
 
 This installer addresses nearly all of the [commonly obeserved issues](https://github.com/xmha97/Vazir-windows-installer/blob/master/FontInstallationIssues.md).
 
